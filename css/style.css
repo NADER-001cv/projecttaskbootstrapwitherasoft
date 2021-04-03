@@ -1,0 +1,128 @@
+
+*{
+    padding: 0 !important;
+    margin: 0 !important;
+    box-sizing: border-box !important;
+}
+
+
+  
+  .main-navbar  .nav-link {
+    color: white !important;
+    padding: 15px !important;
+}
+.nav__link  .nav-item{
+  color: white !important;
+}
+.main-card .card-body {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-around !important;
+  
+}
+.main-card {
+    margin-top: 70px !important;
+}
+.main-card img{
+  width: 200px !important;
+  height: 200px !important;
+  border-radius: 50%;
+  text-align: center !important;
+
+}
+.card-img-top {
+margin-left: 30px !important;
+}
+.main-card .card-title{
+    color: aqua;
+}
+   .main-two-ofsection {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-around !important;
+    align-items: center !important;
+}
+.searcheader{
+  display: flex !important;
+  justify-content: flex-end !important;
+}
+
+.slidehere{
+  margin-top: 1px !important;
+
+  width: 100% !important;
+ 
+} 
+
+.slidehere   .carousel img{
+
+    height: 550px !important;
+
+}
+
+.slider__content   .carousel-caption{
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between  !important;
+    align-items: flex-start !important;
+    margin-bottom: 50px !important;
+    line-height: 20px !important;
+  
+  color:  white !important;
+}
+
+
+
+.slider__content   h1 p {
+  line-height: 15px !important;
+  margin: 15px !important ;
+
+}
+
+.caption__here{
+    display: flex !important;
+    justify-content: space-between !important;
+    flex-direction: column !important;
+    margin:  20px !important ;
+    line-height: 20px !important;
+
+}
+
+
+/* .sectiontogrid {
+
+
+  display: flex !important;
+  justify-content: space-between !important;
+} */
+
+.parent img{
+  background-color: tomato !important;
+  width: 100% !important;
+}
+
+
+.endblock{
+  margin-top: 70px !important;
+  margin-left: 50px !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  padding: 40px !important;
+}
+
+/*  start footer */
+
+.end__footer{
+
+  background-color: black !important;
+  width: 100% !important;
+  max-height: 120px !important;
+  text-align: center !important;
+  color:  white !important;
+  padding: 30px !important;
+}
+
+.end__footer  span{
+  color: aqua !important;
+  text-transform: uppercase !important;
+}
